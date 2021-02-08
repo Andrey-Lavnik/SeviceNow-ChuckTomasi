@@ -1,5 +1,5 @@
 //
-// L01S03 - example client side script
+// L01S03 - example client side script - incident practice
 //
 function onLoad() {
 

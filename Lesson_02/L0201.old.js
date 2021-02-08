@@ -1,5 +1,5 @@
 //
-//  L02S01 - semicolon example - basics js and SN online compiler
+//  L02S01 - semicolon example
 //
 
 // Required:

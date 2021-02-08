@@ -6,8 +6,8 @@
 // concatenate them together with a new line character and save to a new variable
 // Print the new variable and length of the new variable
 //
-var string1 = 'Chuck';
-var string2 = 'Tomasi';
+var string1 = 'Andrey';
+var string2 = 'Lavnik';
 var string3 = 'JavaScript';
 gs.info('length1 = ' + string1.length);
 gs.info('length2 = ' + string2.length);

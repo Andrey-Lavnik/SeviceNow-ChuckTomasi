@@ -4,7 +4,7 @@
 // based on a 'language' variable.
 // Make the default language English if a match isn't found.
 
-var language   = 'German';
+var language   = 'English';
 var fromString = 'Hello world';
 var toString   = '';
 
