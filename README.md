@@ -15,3 +15,5 @@ Scripts use the naming structure **L(lesson#)S(script#).js**. Example, L09S01.js
 * [TechNow webinars](http://bit.ly/servicenow-technow)
 * [ServiceNow Community](https://community.servicenow.com)
 * [Stephen Bell's Scripting Best Practices Videos](https://www.youtube.com/user/ServiceNowCommunity/search?query=scripting+best+practices)
+
+#LEGACY
